@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireWithNextJS.AppHost", "AspireWithNextJS.AppHost\AspireWithNextJS.AppHost.csproj", "{63717702-E02C-4810-9092-3A6F4A9E5425}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireWithNextJS.ServiceDefaults", "AspireWithNextJS.ServiceDefaults\AspireWithNextJS.ServiceDefaults.csproj", "{93C70DA1-987D-4476-8BAE-6E105611D596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspireWithNextjs.WebAPI", "AspireWithNextjs.WebAPI\AspireWithNextjs.WebAPI.csproj", "{B3631F3D-0CFD-4937-8A17-4E8FD44F728C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63717702-E02C-4810-9092-3A6F4A9E5425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63717702-E02C-4810-9092-3A6F4A9E5425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63717702-E02C-4810-9092-3A6F4A9E5425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63717702-E02C-4810-9092-3A6F4A9E5425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C70DA1-987D-4476-8BAE-6E105611D596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C70DA1-987D-4476-8BAE-6E105611D596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C70DA1-987D-4476-8BAE-6E105611D596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C70DA1-987D-4476-8BAE-6E105611D596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3631F3D-0CFD-4937-8A17-4E8FD44F728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3631F3D-0CFD-4937-8A17-4E8FD44F728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3631F3D-0CFD-4937-8A17-4E8FD44F728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3631F3D-0CFD-4937-8A17-4E8FD44F728C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12495A16-3291-46A1-87D9-6D63730C4515}
+	EndGlobalSection
+EndGlobal

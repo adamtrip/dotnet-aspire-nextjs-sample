@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AspireWithNextjs.WebAPI.props" />
+</Project>

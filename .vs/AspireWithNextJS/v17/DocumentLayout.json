@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\AspireWithNextJS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63717702-E02C-4810-9092-3A6F4A9E5425}|AspireWithNextJS.AppHost\\AspireWithNextJS.AppHost.csproj|d:\\dev\\aspirewithnextjs\\aspirewithnextjs.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63717702-E02C-4810-9092-3A6F4A9E5425}|AspireWithNextJS.AppHost\\AspireWithNextJS.AppHost.csproj|solutionrelative:aspirewithnextjs.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63717702-E02C-4810-9092-3A6F4A9E5425}|AspireWithNextJS.AppHost\\AspireWithNextJS.AppHost.csproj|d:\\dev\\aspirewithnextjs\\aspirewithnextjs.apphost\\nodeappaddportlifecyclehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63717702-E02C-4810-9092-3A6F4A9E5425}|AspireWithNextJS.AppHost\\AspireWithNextJS.AppHost.csproj|solutionrelative:aspirewithnextjs.apphost\\nodeappaddportlifecyclehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93C70DA1-987D-4476-8BAE-6E105611D596}|AspireWithNextJS.ServiceDefaults\\AspireWithNextJS.ServiceDefaults.csproj|d:\\dev\\aspirewithnextjs\\aspirewithnextjs.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93C70DA1-987D-4476-8BAE-6E105611D596}|AspireWithNextJS.ServiceDefaults\\AspireWithNextJS.ServiceDefaults.csproj|solutionrelative:aspirewithnextjs.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodeAppAddPortLifecycleHook.cs",
+              "DocumentMoniker": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.AppHost\\NodeAppAddPortLifecycleHook.cs",
+              "RelativeDocumentMoniker": "AspireWithNextJS.AppHost\\NodeAppAddPortLifecycleHook.cs",
+              "ToolTip": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.AppHost\\NodeAppAddPortLifecycleHook.cs",
+              "RelativeToolTip": "AspireWithNextJS.AppHost\\NodeAppAddPortLifecycleHook.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-01T20:44:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "AspireWithNextJS.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "AspireWithNextJS.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-01T20:43:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "AspireWithNextJS.AppHost\\Program.cs",
+              "ToolTip": "D:\\dev\\AspireWithNextJS\\AspireWithNextJS.AppHost\\Program.cs",
+              "RelativeToolTip": "AspireWithNextJS.AppHost\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-01T20:40:27.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

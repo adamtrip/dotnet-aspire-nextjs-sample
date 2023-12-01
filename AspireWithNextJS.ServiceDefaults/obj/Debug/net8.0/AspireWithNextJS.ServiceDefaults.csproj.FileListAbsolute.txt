@@ -1,0 +1,12 @@
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\bin\Debug\net8.0\AspireWithNextJS.ServiceDefaults.deps.json
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\bin\Debug\net8.0\AspireWithNextJS.ServiceDefaults.dll
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\bin\Debug\net8.0\AspireWithNextJS.ServiceDefaults.pdb
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.csproj.AssemblyReference.cache
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.AssemblyInfoInputs.cache
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.AssemblyInfo.cs
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.csproj.CoreCompileInputs.cache
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.dll
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\refint\AspireWithNextJS.ServiceDefaults.dll
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\AspireWithNextJS.ServiceDefaults.pdb
+D:\dev\AspireWithNextJS\AspireWithNextJS.ServiceDefaults\obj\Debug\net8.0\ref\AspireWithNextJS.ServiceDefaults.dll
